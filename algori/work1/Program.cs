@@ -1,22 +1,20 @@
-﻿int Prompt(string message)
-
+﻿double ReadData(string message)
 {
-    System.Console.Write(message);
-    int number = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine(message);
+    double number = Convert.ToDouble(Console.ReadLine());
     return number;
 }
-double a = Math.tg(1.0);
 
-int e = Prompt("Введите число e >");
+double x = ReadData("Введите переменную Х");
+double y = ReadData("Введите переменную Y");
+double z = ReadData("Введите переменную Z");
 
-int x = Prompt("Введите число x >");
+double tanZ = Math.Tan(z);// Это выражение равно tgZ
 
-int y = Prompt("Введите число y >");
+double exp = Math.Exp(x-y);// Это выражение равно exp^(x-y)
 
-int z = Prompt("Введите число z >");
+double sqrtTanZ = Math.Pow(tanZ, 2);//Это выражение (tgZ)^2
 
+double b = Math.Pow(sqrtTanZ + 1, x) * exp;// Math.Pow(sqrtTanZ + 1, x) == ((tgZ)^2 + 1)^x, где sqrtTan = (tgZ)^2
 
-
-int d = tg(28);
-
-Console.Write (d);
+Console.WriteLine(b);
