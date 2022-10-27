@@ -1,0 +1,15 @@
+D:\gb\homework\algori\lab2\bin\Debug\net6.0\lab2.exe
+D:\gb\homework\algori\lab2\bin\Debug\net6.0\lab2.deps.json
+D:\gb\homework\algori\lab2\bin\Debug\net6.0\lab2.runtimeconfig.json
+D:\gb\homework\algori\lab2\bin\Debug\net6.0\lab2.dll
+D:\gb\homework\algori\lab2\bin\Debug\net6.0\lab2.pdb
+D:\gb\homework\algori\lab2\obj\Debug\net6.0\lab2.csproj.AssemblyReference.cache
+D:\gb\homework\algori\lab2\obj\Debug\net6.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb\homework\algori\lab2\obj\Debug\net6.0\lab2.AssemblyInfoInputs.cache
+D:\gb\homework\algori\lab2\obj\Debug\net6.0\lab2.AssemblyInfo.cs
+D:\gb\homework\algori\lab2\obj\Debug\net6.0\lab2.csproj.CoreCompileInputs.cache
+D:\gb\homework\algori\lab2\obj\Debug\net6.0\lab2.dll
+D:\gb\homework\algori\lab2\obj\Debug\net6.0\refint\lab2.dll
+D:\gb\homework\algori\lab2\obj\Debug\net6.0\lab2.pdb
+D:\gb\homework\algori\lab2\obj\Debug\net6.0\lab2.genruntimeconfig.cache
+D:\gb\homework\algori\lab2\obj\Debug\net6.0\ref\lab2.dll

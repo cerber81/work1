@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gb\\homework\\algori\\work2\\work2.csproj": {}
+    "D:\\gb\\homework\\algori\\work2.1\\work2.csproj": {}
   },
   "projects": {
-    "D:\\gb\\homework\\algori\\work2\\work2.csproj": {
+    "D:\\gb\\homework\\algori\\work2.1\\work2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gb\\homework\\algori\\work2\\work2.csproj",
+        "projectUniqueName": "D:\\gb\\homework\\algori\\work2.1\\work2.csproj",
         "projectName": "work2",
-        "projectPath": "D:\\gb\\homework\\algori\\work2\\work2.csproj",
+        "projectPath": "D:\\gb\\homework\\algori\\work2.1\\work2.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\gb\\homework\\algori\\work2\\obj\\",
+        "outputPath": "D:\\gb\\homework\\algori\\work2.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
