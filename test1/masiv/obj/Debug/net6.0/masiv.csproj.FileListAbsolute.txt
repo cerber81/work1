@@ -1,0 +1,15 @@
+D:\gb\homework\test1\masiv\bin\Debug\net6.0\masiv.exe
+D:\gb\homework\test1\masiv\bin\Debug\net6.0\masiv.deps.json
+D:\gb\homework\test1\masiv\bin\Debug\net6.0\masiv.runtimeconfig.json
+D:\gb\homework\test1\masiv\bin\Debug\net6.0\masiv.dll
+D:\gb\homework\test1\masiv\bin\Debug\net6.0\masiv.pdb
+D:\gb\homework\test1\masiv\obj\Debug\net6.0\masiv.csproj.AssemblyReference.cache
+D:\gb\homework\test1\masiv\obj\Debug\net6.0\masiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb\homework\test1\masiv\obj\Debug\net6.0\masiv.AssemblyInfoInputs.cache
+D:\gb\homework\test1\masiv\obj\Debug\net6.0\masiv.AssemblyInfo.cs
+D:\gb\homework\test1\masiv\obj\Debug\net6.0\masiv.csproj.CoreCompileInputs.cache
+D:\gb\homework\test1\masiv\obj\Debug\net6.0\masiv.dll
+D:\gb\homework\test1\masiv\obj\Debug\net6.0\refint\masiv.dll
+D:\gb\homework\test1\masiv\obj\Debug\net6.0\masiv.pdb
+D:\gb\homework\test1\masiv\obj\Debug\net6.0\masiv.genruntimeconfig.cache
+D:\gb\homework\test1\masiv\obj\Debug\net6.0\ref\masiv.dll
