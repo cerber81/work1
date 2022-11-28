@@ -11,24 +11,24 @@
 
 void newarray(int[,] matrix) // вывод массива
 {
-for (int i = 0; i < matrix.GetLength(1); i++)
-{
- for (int j = 0; j < matrix.GetLength(1); j++)
- {
- Console.Write($"{matrix[i, j]} ");
- }
-Console.WriteLine();
-}
+    for (int i = 0; i < matrix.GetLength(1); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            Console.Write($"{matrix[i, j]} ");
+        }
+        Console.WriteLine();
+    }
 }
 void FillArray(int[,] matr) // заполнение массива числами
 {
- for (int i = 0; i < matr.GetLength(0); i++)
- {
- for (int j = 0; j < matr.GetLength(1); j++)
- {
- matr[i,j] = new Random().Next(-10,11);//[1; 10)
- }
- }
+    for (int i = 0; i < matr.GetLength(0); i++)
+    {
+        for (int j = 0; j < matr.GetLength(1); j++)
+        {
+            matr[i, j] = new Random().Next(-10, 11);//[1; 10)
+        }
+    }
 }
 int[,] masi = new int[5, 5];
 
