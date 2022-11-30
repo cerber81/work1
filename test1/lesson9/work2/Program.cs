@@ -16,12 +16,12 @@ void PrintNumbers(int m, int n, int sum) //натуральные элемент
         System.Console.WriteLine(sum);
         return;
     }
-  
+
     PrintNumbers(m + 1, n, sum + m);
 
 }
-int m = Prompt ("Введите число M : ");
-int n = Prompt ("Введите число N : ");
+int m = Prompt("Введите число M : ");
+int n = Prompt("Введите число N : ");
 
 int sum = 0;
 

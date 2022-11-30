@@ -9,8 +9,8 @@ int Prompt(string message) // ввод данных
     return int.Parse(Console.ReadLine()); // считать строку с консоли и преобразовать в целое значение
 }
 
-int m = Prompt ("Введите число M : ");
-int n = Prompt ("Введите число N : ");
+int m = Prompt("Введите число M : ");
+int n = Prompt("Введите число N : ");
 
 void PrintNumbers(int m, int n)
 {

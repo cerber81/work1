@@ -7,17 +7,17 @@ int Prompt(string message) // ввод данных
     return int.Parse(Console.ReadLine()); // считать строку с консоли и преобразовать в целое значение
 }
 
-int m = Prompt ("Введите число M: ");
+int m = Prompt("Введите число M: ");
 
-int n = Prompt ("Введите число N: ");
+int n = Prompt("Введите число N: ");
 
-AkkermanFunction(m,n);
+AkkermanFunction(m, n);
 
 
 // вызов функции Аккермана
 void AkkermanFunction(int m, int n)
 {
-    Console.Write(Akkerman(m, n)); 
+    Console.Write(Akkerman(m, n));
 }
 
 // функция Аккермана
