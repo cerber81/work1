@@ -1,0 +1,15 @@
+D:\gb\homework\rez\bin\Debug\net6.0\rez.exe
+D:\gb\homework\rez\bin\Debug\net6.0\rez.deps.json
+D:\gb\homework\rez\bin\Debug\net6.0\rez.runtimeconfig.json
+D:\gb\homework\rez\bin\Debug\net6.0\rez.dll
+D:\gb\homework\rez\bin\Debug\net6.0\rez.pdb
+D:\gb\homework\rez\obj\Debug\net6.0\rez.csproj.AssemblyReference.cache
+D:\gb\homework\rez\obj\Debug\net6.0\rez.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb\homework\rez\obj\Debug\net6.0\rez.AssemblyInfoInputs.cache
+D:\gb\homework\rez\obj\Debug\net6.0\rez.AssemblyInfo.cs
+D:\gb\homework\rez\obj\Debug\net6.0\rez.csproj.CoreCompileInputs.cache
+D:\gb\homework\rez\obj\Debug\net6.0\rez.dll
+D:\gb\homework\rez\obj\Debug\net6.0\refint\rez.dll
+D:\gb\homework\rez\obj\Debug\net6.0\rez.pdb
+D:\gb\homework\rez\obj\Debug\net6.0\rez.genruntimeconfig.cache
+D:\gb\homework\rez\obj\Debug\net6.0\ref\rez.dll
